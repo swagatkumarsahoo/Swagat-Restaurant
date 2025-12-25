@@ -51,4 +51,5 @@ Add screenshots of your website here if you want.
 
 **Swagat Kumar Sahoo**  
 GitHub: https://github.com/swagatkumarsahoo  
-LinkedIn: https://linkedin.com/in/swagat-kumar-sahoo-6a7236256
+LinkedIn: https://linkedin.com/in/swagat-kumar-sahoo
+
